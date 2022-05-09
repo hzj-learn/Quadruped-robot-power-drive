@@ -1,0 +1,13 @@
+
+T4060 004:008 SEGGER J-Link V4.98e Log File (0001ms, 0041ms total)
+T4060 004:008 DLL Compiled: May  5 2015 11:00:52 (0002ms, 0042ms total)
+T4060 004:008 Logging started @ 2018-07-15 14:28 (0002ms, 0042ms total)
+T4060 004:010 JLINK_SetWarnOutHandler(...) (0000ms, 0042ms total)
+T4060 004:010 JLINK_OpenEx(...)
+  ***** Error: Can not connect to J-Link via USB.  returns "Can not connect to J-Link via USB." (0001ms, 0043ms total)
+
+  ***** API Error: API JLINK_GetHardwareVersion function called before JLINKARM_Open()
+T4060 004:011 
+  ***** Error: Can not connect to J-Link via USB.JLINK_Close() (0001ms, 0045ms total)
+T4060 010:662  (0001ms, 0045ms total)
+T4060 010:662 Closed (0001ms, 0045ms total)
